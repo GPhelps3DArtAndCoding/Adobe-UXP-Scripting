@@ -1,5 +1,5 @@
 # Adobe-UXP-Scripting
-Learn to write plug-ins and scripts for Adobe apps that support UXP.
+Someday, when there are decent tutorials on how to learn this and there is a book for less than the rediculous price of $170 maybe I'll learn UXP.
 
 </b>test</b>
 
